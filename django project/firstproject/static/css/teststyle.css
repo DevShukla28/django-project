@@ -1,0 +1,28 @@
+.heading{
+  color: white;
+  background-color: navy;
+  width;100%;
+}
+.heading h1{
+  padding;10px;
+}
+.questionblock{
+  background_color: : white;
+  border-style: solid;
+  border-color: red;
+  padding:20px;
+  width: 60%;
+}
+.que{
+  font-size: 20px;
+  color: green;
+  font-weight: bold;
+}
+.OPTIONS{
+  color: blue;
+  margin-left: 20px;
+}
+.submit input{
+  width: 200px;
+  margin: 10px;
+}
